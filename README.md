@@ -51,8 +51,10 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo][expo]
-- [Node.js][nodejs]
-- [React][reactjs]
-- [React Native][rn]
-- [TypeScript][typescript]
+<ol>
+<li>Expo</li>
+<li>Node.js</li>
+<li>React</li>
+<li>React Native</li>
+<li>TypeScript</li>
+</ol>
